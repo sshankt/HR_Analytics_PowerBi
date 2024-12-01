@@ -11,14 +11,6 @@ The interactive dashboard allows HR teams to dynamically explore key metrics lik
 📝 Excel: For data cleaning and preparation.
 📊 Power BI: For creating an interactive, visually compelling dashboard.
 
-📂 Project Structure
-
-bash
-.
-├── HR_Analytics.csv                    # Raw dataset used for analysis
-├── HR_Analytics_Dashboard.pbix         # Power BI dashboard file
-├── README.md                           # Project documentation
-
 ## 📈 Key Features of the Dashboard
 
 🏢 Overview Metrics
