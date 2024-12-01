@@ -15,57 +15,81 @@ The interactive dashboard allows HR teams to dynamically explore key metrics lik
 ## 📈 Key Features of the Dashboard
 
 🏢 Overview Metrics
+
 🧑‍🤝‍🧑 Total Employees: 1,470
+
 🚪 Attrition Count: 237
+
 📉 Attrition Rate: 16.1%
+
 ⏳ Average Age: 37 years
+
 💰 Average Salary: 6.5K
+
 📅 Average Tenure: 7 years
+
 📌 Attrition Analysis by Key Factors
 
 ### 🎓 By Education:
 
 Life Sciences: 38%
+
 Medical: 27%
+
 Marketing: 15%
+
 Technical Degree: 14%
 
 ### 🧍‍♂️ By Age:
 
 Top Group: Employees aged 26-35 had the highest attrition (116 employees).
+
 Employees aged <26 and >55 exhibited the lowest attrition rates.
 
 ### 💸 By Salary:
 
 Up to 5K: Highest attrition (163 employees).
+
 Salaries 10K+: Minimal attrition (5 employees).
 
 ### 🕒 By Tenure (Years in Company):
 
 Highest attrition in the first year (30 employees).
+
 Attrition dips after 2-5 years, with a slight increase after 10+ years.
 
 ### 🏷️ By Job Role:
 
 Laboratory Technicians: 62 employees left.
+
 Sales Executives: 57 employees left.
+
 Research Scientists: 47 employees left.
 
 ### 👨‍⚖️ By Gender:
 
 Male: 140 employees left.
+
 Female: 79 employees left.
 
 🎛️ Dynamic Filters and Slicers
+
 🔍 Gender Filter: Explore attrition trends by male or female employees.
+
 🏢 Department Filter: Focus on HR, Research & Development, or Sales.
+
 🧑‍💼 Job Role Filter: Drill down into specific roles.
+
 🎓 Education Filter: Analyze attrition by education qualification.
+
 💰 Salary Filter: View trends across salary brackets.
+
 📊 Key Insights
+
 💼 High Attrition in Certain Roles:
 
 ### Sales Executives and Laboratory Technicians face the highest attrition.
+
 👩‍🎓 Young Professionals at Risk:
 
 ### Employees aged 26-35 are most likely to leave.
