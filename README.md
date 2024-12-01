@@ -15,9 +15,9 @@ The interactive dashboard allows HR teams to dynamically explore key metrics lik
 
 bash
 .
-├── HR_Analytics.csv                   # Raw dataset used for analysis
-├── HR_Analytics_Dashboard.pbix        # Power BI dashboard file
-├── README.md                          # Project documentation
+├── HR_Analytics.csv                    # Raw dataset used for analysis
+├── HR_Analytics_Dashboard.pbix         # Power BI dashboard file
+├── README.md                           # Project documentation
 
 ## 📈 Key Features of the Dashboard
 
@@ -104,6 +104,9 @@ Interactive Filters: Quickly filter data by gender, department, and job role for
 Visuals:
 
 📊 Pie Charts: Education-based attrition distribution.
+
 📈 Bar Charts: Attrition by salary and job roles.
+
 📉 Line Charts: Attrition trends over years of tenure.
+
 Dynamic Analysis: Slice and dice data to uncover actionable trends. 
