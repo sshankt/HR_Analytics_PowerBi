@@ -9,6 +9,7 @@ The interactive dashboard allows HR teams to dynamically explore key metrics lik
 ## 🛠️ Technologies and Tools
 
 📝 Excel: For data cleaning and preparation.
+
 📊 Power BI: For creating an interactive, visually compelling dashboard.
 
 ## 📈 Key Features of the Dashboard
