@@ -6,6 +6,7 @@ This project delves into employee attrition analysis to uncover patterns and tre
 
 The interactive dashboard allows HR teams to dynamically explore key metrics like gender-specific insights, department trends, and salary brackets, making it a powerful tool for decision-making.
 
+!["Dashboard"](https://github.com/sshankt/HR_Analytics_PowerBi/blob/main/HR%20Analytics_imaze.png)
 ## 🛠️ Technologies and Tools
 
 📝 Excel: For data cleaning and preparation.
